@@ -1,0 +1,19 @@
+h1{
+    font-family: Helvetica;
+    font-size: 80px;
+    color: aqua;
+    text-align: center;
+    background-color: blue;
+    font-style: italic;
+    font-weight: 800;
+}
+body{
+    background-image: url(background\ color.webp);
+    background-size: 100ch;
+    background-color: brown;
+
+}
+.one{
+    background-color: antiquewhite;
+
+}
